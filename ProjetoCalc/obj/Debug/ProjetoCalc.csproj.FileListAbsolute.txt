@@ -1,0 +1,10 @@
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.AssemblyReference.cache
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.calculadora.resources
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.Properties.Resources.resources
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.GenerateResource.cache
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.csproj.CoreCompileInputs.cache
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe.config
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.exe
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\bin\Debug\ProjetoCalc.pdb
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.exe
+C:\Users\camila.poliveira34\source\repos\ProjetoCalc\ProjetoCalc\obj\Debug\ProjetoCalc.pdb
